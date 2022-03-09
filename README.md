@@ -5,6 +5,7 @@ Self-sequence alignment represents a novel [mathematical model](https://figshare
 <kbd><img src="https://github.com/Gagniuc/Self-sequence-alignment/blob/main/self-sequence-alignment.png?raw=true" /></kbd>
 
 # Live demo
+
 https://gagniuc.github.io/Self-sequence-alignment/
 
 # References
